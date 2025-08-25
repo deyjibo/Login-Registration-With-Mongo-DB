@@ -41,9 +41,12 @@ app.post('/login', (req, res) => {
             } else res.json("No records found!");
         });
 });
-
+app.get('/check',(req,res)=>{
+    res.send("okay")
+})
 // Start server
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
     console.log(`Server listening on http://127.0.0.1:${PORT}`);
 });
+
