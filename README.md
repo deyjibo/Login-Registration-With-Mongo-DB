@@ -17,7 +17,8 @@
 ---
 
 ## 🌐 Live Demo  
-👉 <a>login-reg-portal.netlify.app</a>
+👉 Check out the live app on Netlify:  
+[login-reg-portal.netlify.app](login-reg-portal.netlify.app)
 
 ---
 
