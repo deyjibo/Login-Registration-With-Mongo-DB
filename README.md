@@ -6,10 +6,10 @@
 </p>  
 
 <p align="center">
-  <a href="https://yourapp.netlify.app" target="_blank">
+  <a href="login-reg-portal.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=netlify" alt="Live Demo" />
   </a>
-  <a href="https://github.com/yourusername/yourrepo">
+  <a href="https://github.com/deyjibo/Login-Registration-With-Mongo-DB">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo" />
   </a>
 </p>  
