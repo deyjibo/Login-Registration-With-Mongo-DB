@@ -41,17 +41,13 @@
 
 ## 🚀 Getting Started  
 
-### Clone Repository  
+#Run it Locally 
 ```bash
-git clone https://github.com/deyjibo/Login-Registration-With-Mongo-DB.git
 ###  Run the Backend First
-```bash
 cd backend
 npm install
 npm run
 ###  Run the Frontend Next
-After cloning the repo and setting up the backend, open a terminal in VS Code:
-```bash
 cd frontend
 npm install
 npm run dev
