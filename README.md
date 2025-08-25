@@ -1,4 +1,4 @@
-# Login-Registration-With-Mongo-DB\
+# Login-Registration-With-Mongo-DB
 <h1 align="center">🔐 Login & Registration Project</h1>  
 
 <p align="center">
@@ -6,8 +6,8 @@
 </p>  
 
 <p align="center">
-  <a href="login-reg-portal.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=netlify" alt="Live Demo" />
+  <a href="https://login-reg-portal.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=netlify" alt="Live Project" />
   </a>
   <a href="https://github.com/deyjibo/Login-Registration-With-Mongo-DB">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo" />
@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 Live Demo  
-👉 **[Check it out here]login-reg-portal.netlify.app**  
+👉 <a>login-reg-portal.netlify.app</a>
 
 ---
 
