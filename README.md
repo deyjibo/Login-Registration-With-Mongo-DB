@@ -41,7 +41,7 @@
 
 ## 🚀 Getting Started  
 
-#Run it Locally 
+Run it Locally 
 ```bash
 ###  Run the Backend First
 cd backend
