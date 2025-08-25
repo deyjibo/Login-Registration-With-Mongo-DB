@@ -1,6 +1,5 @@
 const cors = require('cors');
 const express = require('express');
-var cors = require('cors')
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const FormDataModel = require('./models/FormData');
