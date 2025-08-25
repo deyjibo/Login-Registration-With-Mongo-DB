@@ -1,12 +1,12 @@
 const cors = require('cors');
 const express = require('express');
+var cors = require('cors')
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const FormDataModel = require('./models/FormData');
-
-dotenv.config();  // load .env
-
 const app = express();
+const port = 3001;
+dotenv.config();  // load .env
 app.use(express.json());
 app.use(cors());
 
@@ -35,7 +35,7 @@ app.post('/login', (req, res) => {
     FormDataModel.findOne({ email })
         .then(user => {
             if (user) {
-                if (user.password === password) res.json("Success");
+                if (user.password == password) res.json("Success");
                 else res.json("Wrong password");
             } else res.json("No records found!");
         });
